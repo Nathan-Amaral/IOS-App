@@ -1,5 +1,6 @@
 IOS APP
-
+1) Environnement
+   
 EXERCICE 1 
 
 Les targets : Ce sont les configurations des dossiers qui définissent comment une partie du code va être construite et exécutée. Dans le cas de notre projet on retrouve comme target : Document App, Document AppTests et Document AppUITests soit les trois dossiers de notre projet
@@ -32,6 +33,17 @@ Et celui pour commenter la selection ?
 C'est Cmd + / (Windows + /)
 
 EXERCICE 3
+
+3) Delegation
+
+EXERCICE 1
+
+Expliquer l’intérêt d’une propriété statique en programmation.
+l'intérêt d'une propriété statique est qu'elle partagée par toutes les instances d’une classe et donc si une instance modifie cette propriété, la valeur est modifiée pour toutes les autres.
+
+EXERCICE 2
+
+dequeueReusableCell est important car il permet de réutiliser les cellules qui sortent de l'écran au lieu d'en créer de nouvelles à chaque fois, ce qui optimise l'utilisation mémoire et améliore la fluidité du défilement dans les listes.
 
 
 
